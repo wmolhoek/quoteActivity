@@ -1,2 +1,0 @@
-# quoteActivity
-Created with CodeSandbox
